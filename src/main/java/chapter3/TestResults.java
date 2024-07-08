@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TestResults {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         // Get the test score
         System.out.println("Enter your test score:");
